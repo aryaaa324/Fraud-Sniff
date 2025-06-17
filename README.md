@@ -4,7 +4,6 @@
 ![Streamlit App](https://img.shields.io/badge/Built%20With-Streamlit-orange)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-RandomForest-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 **FraudSniff** is a secure, interactive banking system that performs real-time fraud detection using a trained machine learning model.  
 It includes OTP-based transaction verification and stores all user data in an SQLite database.  
