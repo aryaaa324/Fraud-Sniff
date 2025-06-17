@@ -1,2 +1,7 @@
-# Fraud-Sniff
-A lightweight Streamlit-based Banking Simulation App that enables users to deposit, withdraw, and transfer funds while detecting fraudulent transactions using a trained Machine Learning model.
+This is a simple banking system app using Python + Streamlit.
+
+## Features
+- User Login/Register
+- Deposit / Withdraw / Transfer
+- Transaction History
+- AI-Based Suspicious Activity Warning
