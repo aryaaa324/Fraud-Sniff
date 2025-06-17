@@ -121,16 +121,6 @@ model.predict(scaler.transform([[amount, avg_daily_tx, hour]]))
 
 ---
 
-## ✅ Demo Screenshots
-
-| Login Page                 | Transfer with OTP        | Suspicious Detection       |
-| -------------------------- | ------------------------ | -------------------------- |
-| ![](screenshots/login.png) | ![](screenshots/otp.png) | ![](screenshots/fraud.png) |
-
-*(Add images to a `/screenshots` folder in your repo)*
-
----
-
 ## 📌 TODO / Future Work
 
 * ✅ Add transaction reversal on fraud detection
